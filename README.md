@@ -1,3 +1,10 @@
+# nestjs-try-rest-api
+Testing the REST API on NestJS using MongoDB.
+
+API results tested using Postman.
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
